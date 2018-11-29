@@ -1,1 +1,1 @@
-# React-Native-Course
+# React-Native-Course Manager App
